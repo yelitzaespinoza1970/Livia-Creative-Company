@@ -2,6 +2,8 @@
 
 ### Creative Agency Landing Page | Figma to HTML & CSS
 
+![Livia Creative Company Screenshot](https://github.com/yelitzaespinoza1970/Livia-Creative-Company/blob/main/_C__Users_yceb1_OneDrive_Documentos_MasterConquerBlocks_html%2520conquer_Ejercicios_Tarea%25205.2_modulo%2520css_Proyectos_Proyecto%25203%2520-%2520Livia%2520Creative%2520Company_index.html.png?raw=true)
+
 ## 📌 Project Overview
 
 Livia Creative Company is a creative agency landing page recreated from a Figma design as part of my web development training.
